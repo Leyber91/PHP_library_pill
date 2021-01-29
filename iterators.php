@@ -64,7 +64,7 @@ for ($i = 1; $i <= 23; $i++) {
 
 echo '<br>';
 
-echo '<h3> WhileDo iterator example </h3>';
+echo '<h3> Do while iterator example </h3>';
 
 $i = 0;
 do {
