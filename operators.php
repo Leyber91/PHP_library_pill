@@ -76,10 +76,4 @@ var_dump( $x xor $x );
 echo '<p> Result of !$x xor !$y </p>';
 var_dump( $x xor $y );
 
-
-
-
-
-
-
 ?>
